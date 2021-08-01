@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/growthplug_prjct/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/growthplug_prjct/static/js/main.79639e8b.chunk.js",
+    "main.js.map": "/growthplug_prjct/static/js/main.79639e8b.chunk.js.map",
+    "runtime-main.js": "/growthplug_prjct/static/js/runtime-main.927c1d3a.js",
+    "runtime-main.js.map": "/growthplug_prjct/static/js/runtime-main.927c1d3a.js.map",
+    "static/js/2.069fc79b.chunk.js": "/growthplug_prjct/static/js/2.069fc79b.chunk.js",
+    "static/js/2.069fc79b.chunk.js.map": "/growthplug_prjct/static/js/2.069fc79b.chunk.js.map",
+    "static/js/3.6bec689d.chunk.js": "/growthplug_prjct/static/js/3.6bec689d.chunk.js",
+    "static/js/3.6bec689d.chunk.js.map": "/growthplug_prjct/static/js/3.6bec689d.chunk.js.map",
+    "index.html": "/growthplug_prjct/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/growthplug_prjct/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.069fc79b.chunk.js.LICENSE.txt": "/growthplug_prjct/static/js/2.069fc79b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.927c1d3a.js",
+    "static/js/2.069fc79b.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.79639e8b.chunk.js"
+  ]
+}
